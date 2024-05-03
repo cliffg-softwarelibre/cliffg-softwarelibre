@@ -6,9 +6,9 @@ All of my repositories are through my open source organization [Connective C++](
 
 I live in a town named Placitas, which is approximately 10 miles north of Albuquerque, New Mexico. I also lived over 30 years near Seattle in the state of Washington.
 
-My current technical activities include co-organizing, presenting, and mentoring with the [New Mexico C++ Programmers](https://www.meetup.com/new-mexico-cpp-programmers/) Meetup Group, attending and presenting at the [Albuquerque Google Developers Group](https://gdg.community.dev/gdg-albuquerque/) and designing and coding various open source projects. I also perform consulting, training, and am working on an educational YouTube channel.
+My current technical activities include co-organizing, presenting, and mentoring with the [New Mexico C++ Programmers Meetup Group](https://www.meetup.com/new-mexico-cpp-programmers/), attending and presenting at the [Albuquerque Google Developers Group](https://gdg.community.dev/gdg-albuquerque/) and designing and coding various open source projects. I also perform consulting, training, and am working on an educational YouTube channel.
 
-After moving to New Mexico I became a partner in an aviation company named [Merlin Aviation](https://merlinavation.net). We offer glider rides, training, and rentals (and hope to do the same with powered flight in the near future).
+After moving to New Mexico I became a partner in an aviation company named [Merlin Aviation](https://merlinaviation.net). We offer glider rides, training, and rentals (and hope to do the same with powered flight in the near future).
 
 ---
 
