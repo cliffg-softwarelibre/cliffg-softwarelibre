@@ -4,6 +4,11 @@ I'm a software engineer (among other interests, see below), with many decades of
 
 All of my repositories are through my open source organization [Connective C++](https://github.com/connectivecpp).
 
+This is the view from our house in New Mexico. We (my wife and I) love sunsets and most evenings are gorgeous through our front windows.
+
+![On my daily walk through the neighborhood](./pics/neighborhood_view.jpg)
+
+
 <!--
 **cliffg-softwarelibre/cliffg-softwarelibre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
