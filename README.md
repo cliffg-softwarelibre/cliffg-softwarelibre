@@ -8,7 +8,6 @@ This is the view from our house in New Mexico. We (my wife and I) love sunsets a
 
 ![On my daily walk through the neighborhood](./pics/neighborhood_view.jpg)
 
-
 <!--
 **cliffg-softwarelibre/cliffg-softwarelibre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
