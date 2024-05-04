@@ -2,6 +2,8 @@
 
 I'm a software engineer (among other interests, see below), with many decades of experience.
 
+Are you looking for a project to work on?
+
 All of my software repositories are through my open source organization [Connective C++](https://github.com/connectivecpp/). This includes a repository for various presentations I've made, including example code with unit tests: [My Presentations](https://github.com/connectivecpp/presentations/)
 
 I live in a town named [Placitas](https://www.newmexicomagazine.org/blog/post/best-things-to-do-in-placitas-new-mexico/), which is approximately 10 miles north of [Albuquerque](https://www.visitalbuquerque.org/), [New Mexico](https://www.newmexico.org/). I also lived over 25 years in [Lake Forest Park](https://www.cityoflfp.gov/210/History-of-Lake-Forest-Park/), 15 miles north of [Seattle](https://visitseattle.org/), and six years in [Olympia](https://stateofwatourism.com/olympia-city-guide/), both in the state of [Washington](https://stateofwatourism.com/).
